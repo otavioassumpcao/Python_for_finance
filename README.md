@@ -1,2 +1,3 @@
-# Python_for_finance
- Anotações do livro Python for finance
+# **Python for Finance**
+Notations from de book "Python for Finance" by Yves Hilpisch.
+
